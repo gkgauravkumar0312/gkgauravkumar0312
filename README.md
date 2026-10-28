@@ -83,6 +83,22 @@ A beginner-level chatbot project built with Python and Streamlit.
 </p>
 
 ---
+<!-- Animated Heartbeat Line -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=700&pause=0&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=%E2%99%A5+Keep+Coding+%7C+Keep+Growing+%E2%99%A5"
+    alt="Keep Coding Keep Growing"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,100:7B2FF7&height=100&section=header"
+    width="100%"
+    alt="Animated style separator"
+  />
+</p>
 
 ## 🌐 Connect With Me
 
