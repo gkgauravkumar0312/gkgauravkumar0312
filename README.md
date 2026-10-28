@@ -70,7 +70,7 @@ A beginner-level chatbot project built with Python and Streamlit.
 
 <p align="center">
   <a href="https://github.com/gkgauravkumar0312">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkgauravkumar0312&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkgauravkumar0312&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
   </a>
 </p>
 
@@ -79,7 +79,7 @@ A beginner-level chatbot project built with Python and Streamlit.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gkgauravkumar0312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gkgauravkumar0312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
