@@ -68,14 +68,15 @@ A beginner-level chatbot project built with Python and Streamlit.
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/gkgauravkumar0312">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkgauravkumar0312&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkgauravkumar0312&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Gaurav%27s%20Contribution%20Activity"
+         width="100%"
+         alt="Gaurav's GitHub Contribution Activity Graph" />
   </a>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
