@@ -38,6 +38,7 @@
 ## 🚀 Featured Projects
 
 ### 💻 DSA in Java
+
 A collection of Java programs and Data Structures and Algorithms practice questions.
 
 - **Language:** Java
@@ -45,6 +46,7 @@ A collection of Java programs and Data Structures and Algorithms practice questi
 - **Repository:** <a href="https://github.com/gkgauravkumar0312/DSA-in-Java">View DSA Repository →</a>
 
 ### 🤖 Generative AI Chatbot
+
 A beginner-level chatbot project built with Python and Streamlit.
 
 - **Technologies:** Python, Streamlit
@@ -70,7 +72,7 @@ A beginner-level chatbot project built with Python and Streamlit.
 
 <p align="center">
   <a href="https://github.com/gkgauravkumar0312">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkgauravkumar0312&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkgauravkumar0312&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
   </a>
 </p>
 
@@ -79,26 +81,27 @@ A beginner-level chatbot project built with Python and Streamlit.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gkgauravkumar0312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gkgauravkumar0312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
-<!-- Animated Heartbeat Line -->
+
+## 💓 Heartbeat — Keep Coding, Keep Growing
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=700&pause=0&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=%E2%99%A5+Keep+Coding+%7C+Keep+Growing+%E2%99%A5"
-    alt="Keep Coding Keep Growing"
-  />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" role="img" aria-label="Cyan heartbeat line">
+    <rect width="800" height="100" rx="8" fill="#0d1117"/>
+    <path d="M0 50 H150 L180 50 L205 35 L230 68 L260 12 L292 85 L320 50 H390 L420 50 L445 35 L470 68 L500 12 L532 85 L560 50 H630 L660 50 L685 35 L710 68 L740 12 L772 85 L790 50 H800"
+          fill="none" stroke="#00D9FF" stroke-width="3"
+          stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="stroke-dasharray" values="0,1600;800,800;1600,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </svg>
+  <br/>
+  <strong>💙 Keep Coding | Keep Learning | Keep Growing 💙</strong>
 </p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,100:7B2FF7&height=100&section=header"
-    width="100%"
-    alt="Animated style separator"
-  />
-</p>
+---
 
 ## 🌐 Connect With Me
 
@@ -121,7 +124,3 @@ A beginner-level chatbot project built with Python and Streamlit.
 </p>
 
 <h3 align="center">Thanks for visiting my profile! ⭐</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=110&section=footer" width="100%" alt="Profile footer" />
-</p>
